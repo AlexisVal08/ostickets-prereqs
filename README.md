@@ -22,11 +22,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1:
+- Create microsoft azure account 
+- Item 2:
+- Have an active subscription and resource group dedicated for the osticket 
+- Item 3:
+- Create a virtual machine under the resource group for osticket installation
+- Item 4:
+- obtain and download installation files for osticket system
 
 <h2>Installation Steps</h2>
 
