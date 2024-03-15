@@ -34,6 +34,7 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
    - Connect using Remote Desktop Connection app using the public IP address of the VM.
    - Also using the assigned login account and password
 <img width="428" alt="step 3" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/7d287a6f-7662-44b8-aa66-bd0dfd0860b3">
+<img width="427" alt="step 3 B" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/2ee2d001-afe3-4eae-ab2c-c1723323dcb2">
 
 3. **Enable Internet Information Services (IIS) in Windows:**
    - Go to Control Panel -> Programs -> Turn Windows features on and off.
