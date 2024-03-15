@@ -20,16 +20,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Heidi SQL
 - osTicket v1.15.8
 
-[Link to downloads](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 ## Installation Steps
 
 1. **Create a Virtual Machine:**
    - Go to [Azure portal](https://portal.azure.com/).
    - Set up a virtual machine with Windows 10 Pro, version 22H2, with at least 2 vCPUs and 16GBs of memory.
+ <img width="501" alt="step 1" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/cedf7be0-f9f5-49c9-92e4-8e00348af09d">
+ <img width="504" alt="step 2" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/84dc9a15-aba5-46a4-a10c-20d61bd7b4ca">
 
 2. **Connect to the Virtual Machine:**
    - Connect using Remote Desktop Connection app using the public IP address of the VM.
+   - Also using the assigned login account and password
+<img width="428" alt="step 3" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/7d287a6f-7662-44b8-aa66-bd0dfd0860b3">
 
 3. **Enable Internet Information Services (IIS) in Windows:**
    - Go to Control Panel -> Programs -> Turn Windows features on and off.
