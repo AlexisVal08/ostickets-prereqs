@@ -59,12 +59,12 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 <img width="428" alt="Step 5B" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/5a7221b4-4115-4f55-a8ec-e52835b519d9">
 
 6. **Install PHP:**
-   - Create a folder named `PHP` in the C drive.
+   - Create a Directory folder named `PHP` in the C drive.
    - Download PHP 7.3.8 (php-7.3.88-nts-Win32-VC15-x866.zip) and unzip it into `C:\PHP`.
    - Download and install VC_redist.x86.exe from the installation files.
-<img width="428" alt="" src="">
-<img width="428" alt="" src="">
-<img width="428" alt="" src="">
+<img width="428" alt="Step 6A" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/58754f5b-074a-4e45-959b-50c831619b9e">
+<img width="428" alt="Step 6B" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/4bce4b49-c23f-4237-8d98-d678f5fa2bc9">
+<img width="428" alt="Step 6C" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/f8aa4c7d-1dbf-4227-8e7b-f46e7f52a199">
 
 7. **Install MySQL:**
    - Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi).
