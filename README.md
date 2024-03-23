@@ -67,7 +67,9 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 <img width="428" alt="Step 6C" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/f8aa4c7d-1dbf-4227-8e7b-f46e7f52a199">
 <img width="428" alt="Step 6D" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/9f278f76-2369-4228-9aa9-1c10f1538f9a">
 <img width="428" alt="Step 6E" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/15f2e4af-36dd-4ad4-8fae-1c5cc05ed601">
-<img width="422" alt="Step 6F" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/c5310ff2-58e7-471c-9d37-f6bcec28f35e">
+<img width="428" alt="Step 6F" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/c5310ff2-58e7-471c-9d37-f6bcec28f35e">
+<img width="428" alt="Step 6G" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/8f0a2578-8c83-4105-9802-666bb3b00528">
+
 
 7. **Install MySQL:**
    - Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi).
