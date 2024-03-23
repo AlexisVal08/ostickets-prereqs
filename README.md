@@ -41,34 +41,48 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 3. **Enable Internet Information Services (IIS) in Windows:**
    - Go to Control Panel -> Programs -> Turn Windows features on and off.
    - Install/enable IIS with CGI and Common HTTP Features
-<img width="428" alt="step 2A" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/3500648f-1918-4e60-936c-b044af37cdfe">
-<img width="428" alt="step 2A" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/f29a0296-6750-43a8-8c0d-a71d9b9f3a81">
+<img width="428" alt="Step 3A" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/3500648f-1918-4e60-936c-b044af37cdfe">
+<img width="428" alt="Step 3B" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/f29a0296-6750-43a8-8c0d-a71d9b9f3a81">
 
 
 4. **Install PHP Manager for IIS:**
    - Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi).
+<img width="428" alt="Step 4A" src="">
+<img width="428" alt="Step 4B" src="">
 
 5. **Install Rewrite Module:**
    - Download and install the Rewrite Module (rewrite_amd64_en-US.msi).
+<img width="428" alt="" src="">
 
 6. **Install PHP:**
    - Create a folder named `PHP` in the C drive.
    - Download PHP 7.3.8 (php-7.3.88-nts-Win32-VC15-x866.zip) and unzip it into `C:\PHP`.
    - Download and install VC_redist.x86.exe from the installation files.
+<img width="428" alt="" src="">
+<img width="428" alt="" src="">
+<img width="428" alt="" src="">
 
 7. **Install MySQL:**
    - Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi).
    - Set up MySQL with a root password (e.g., Password1).
+<img width="428" alt="" src="">
+<img width="428" alt="" src="">
 
 8. **Register PHP in IIS:**
    - Open IIS as an administrator.
    - Click on PHP Manager and register new PHP version by providing the path to `php-cgi.exe` in `C:\PHP`.
+<img width="428" alt="" src="">
+<img width="428" alt="" src="">
 
 9. **Install osTicket:**
    - Download osTicket from the Installation Files Folder.
    - Extract and copy the "upload" folder to `C:\inetpub\wwwroot`.
    - Rename the "upload" folder to "osTicket".
    - Reload IIS.
+<img width="428" alt="" src="">
+<img width="428" alt="" src="">
+<img width="428" alt="" src="">
+<img width="428" alt="" src="">
 
 10. **Enable PHP Extensions:**
     - Go to sites -> Default -> osTicket in IIS.
@@ -76,26 +90,38 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
       - php_imap.dll
       - php_intl.dll
       - php_opcache.dll
+<img width="428" alt="" src="">
+<img width="428" alt="" src="">
 
 11. **Configure osTicket:**
     - Rename `ost-sampleconfig.php` to `ost-config.php`.
     - Set appropriate permissions for `ost-config.php`.
     - Continue the setup in the browser, providing necessary information except for the Database Settings.
-
+<img width="428" alt="" src="">
+<img width="428" alt="" src="">
+<img width="428" alt="" src="">
+   
 12. **Install HeidiSQL:**
     - Download and install HeidiSQL from the Installation Files.
     - Create a new session with root username and Password1.
+<img width="428" alt="" src="">
+<img width="428" alt="" src="">
 
 13. **Create Database:**
     - Create a new database named `osTicket` in HeidiSQL.
     - Provide the same database name (`osTicket`) in osTicket setup.
+<img width="428" alt="" src="">
+<img width="428" alt="" src="">
 
 14. **Clean Up:**
     - Delete the `setup` folder from `C:\inetpub\wwwroot\osTicket`.
     - Set permissions of `ost-config.php` to "Read" only.
+<img width="428" alt="" src="">
+<img width="428" alt="" src="">
 
 15. **Finish Setup:**
     - Login to osTicket in the browser.
+<img width="428" alt="" src="">
 
 Congratulations! You have now successfully installed and setup osTicket!
 
