@@ -41,18 +41,22 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 3. **Enable Internet Information Services (IIS) in Windows:**
    - Go to Control Panel -> Programs -> Turn Windows features on and off.
    - Install/enable IIS with CGI and Common HTTP Features
+   - World Wide Web Services -> Application Development Features
 <img width="428" alt="Step 3A" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/3500648f-1918-4e60-936c-b044af37cdfe">
 <img width="428" alt="Step 3B" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/f29a0296-6750-43a8-8c0d-a71d9b9f3a81">
-
+<img width="260" alt="Step 3C" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/dd056619-6198-4e04-99ec-053cbaf5656e">
+<img width="260" alt="Step 3D" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/efc7bad3-d3e9-4e8b-9bf5-49e01385753a">
+<img width="260" alt="Step 3E" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/fbc0c78a-a5ee-4f6a-8cfb-50c7513842f9">
 
 4. **Install PHP Manager for IIS:**
    - Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi).
-<img width="428" alt="Step 4A" src="">
-<img width="428" alt="Step 4B" src="">
+<img width="428" alt="Step 4A" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/2f7858ce-f605-4927-bb03-45289a4655ce">
+<img width="428" alt="Step 4B" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/7139fc0f-cc03-4422-bc58-b4ab9046b89f">
 
 5. **Install Rewrite Module:**
    - Download and install the Rewrite Module (rewrite_amd64_en-US.msi).
-<img width="428" alt="" src="">
+<img width="428" alt="Step 5A" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/4a0eb03a-391f-4b75-b285-7274c8ae611e">
+<img width="428" alt="Step 5B" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/5a7221b4-4115-4f55-a8ec-e52835b519d9">
 
 6. **Install PHP:**
    - Create a folder named `PHP` in the C drive.
