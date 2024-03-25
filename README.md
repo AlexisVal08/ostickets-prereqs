@@ -84,7 +84,8 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 8. **Register PHP in IIS:**
    - Open IIS as an administrator.
    - Click on PHP Manager, register and enable the new PHP version by providing the path to `php-cgi.exe` in `C:\PHP`.
-   - Whenever updating anything in the IIS it is recommendeded to restarted the web server in manage server.
+   - Whenever updating anything in the IIS it is recommendeded to restart the web server in manage server.
+   - Reload IIS, Open IIS, Stop and Start the server.
 <img width="428" alt="Step 8A" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/bf54eb39-d027-4a8b-87b5-19e9d5123331">
 <img width="428" alt="Step 8B" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/08074180-f5dc-4932-a107-fc19da2859b0">
 <img width="428" alt="Step 8C" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/4cbbfc1c-4918-4c05-90fa-95c16e3395b2">
@@ -93,13 +94,12 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 9. **Install osTicket:**
    - Download osTicket from the Installation Files Folder.
-   - Extract and copy the "upload" folder to `C:\inetpub\wwwroot`.
+   - Extract and copy the "upload" folder onto `C:\inetpub\wwwroot`. (This is our servers main folder)
    - Rename the "upload" folder to "osTicket".
    - Reload IIS.
-<img width="428" alt="" src="">
-<img width="428" alt="" src="">
-<img width="428" alt="" src="">
-<img width="428" alt="" src="">
+<img width="428" alt="Step 9A" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/deb422b2-d6f6-49b7-a56e-3753605b1e86">
+<img width="428" alt="Step 9B" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/c4837a20-7340-4927-b665-e5a8b5613f3d">
+<img width="428" alt="Step 9C" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/10cc4633-4b4a-4bf7-b545-c9dfa7cc9660">
 
 10. **Enable PHP Extensions:**
     - Go to sites -> Default -> osTicket in IIS.
