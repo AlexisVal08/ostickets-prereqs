@@ -107,8 +107,8 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
       - php_imap.dll
       - php_intl.dll
       - php_opcache.dll
-<img width="428" alt="" src="">
-<img width="428" alt="" src="">
+<img width="428" alt="Step 10A" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/e7438d79-c8b0-42e0-964c-934e9cfb5374">
+<img width="428" alt="sTEP 10B" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/f66cef49-ce8a-4713-9240-91e6e70d4943">
 
 11. **Configure osTicket:**
     - Rename `ost-sampleconfig.php` to `ost-config.php`.
