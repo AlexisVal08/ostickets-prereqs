@@ -79,14 +79,14 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 <img width="428" alt="Step 7B" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/6eaf04e6-5bf5-458d-8e95-2b26e8913752">
 <img width="428" alt="Step 7C" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/dd86383b-381e-4bc9-845f-69638d06e68c">
 <img width="428" alt="Step 7D" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/940550ef-0a8c-444c-8987-328af44badc0">
-
+<img width="428" alt="Step 7E" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/52cec249-25c1-493c-acc3-b9a52eee2d20">
 
 8. **Register PHP in IIS:**
    - Open IIS as an administrator.
-   - Click on PHP Manager and register new PHP version by providing the path to `php-cgi.exe` in `C:\PHP`.
-<img width="428" alt="" src="">
-<img width="428" alt="" src="">
-
+   - Click on PHP Manager, register and enable the new PHP version by providing the path to `php-cgi.exe` in `C:\PHP`.
+<img width="428" alt="Step 8A" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/bf54eb39-d027-4a8b-87b5-19e9d5123331">
+<img width="428" alt="Step 8B" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/08074180-f5dc-4932-a107-fc19da2859b0">
+<img width="428" alt="Step 8C" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/4cbbfc1c-4918-4c05-90fa-95c16e3395b2">
 9. **Install osTicket:**
    - Download osTicket from the Installation Files Folder.
    - Extract and copy the "upload" folder to `C:\inetpub\wwwroot`.
