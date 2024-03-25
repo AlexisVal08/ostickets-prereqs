@@ -84,9 +84,13 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 8. **Register PHP in IIS:**
    - Open IIS as an administrator.
    - Click on PHP Manager, register and enable the new PHP version by providing the path to `php-cgi.exe` in `C:\PHP`.
+   - Whenever updating anything in the IIS it is recommendeded to restarted the web server in manage server.
 <img width="428" alt="Step 8A" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/bf54eb39-d027-4a8b-87b5-19e9d5123331">
 <img width="428" alt="Step 8B" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/08074180-f5dc-4932-a107-fc19da2859b0">
 <img width="428" alt="Step 8C" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/4cbbfc1c-4918-4c05-90fa-95c16e3395b2">
+<img width="428" alt="Step 8D" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/897d4f89-e8c5-4460-810f-07815a2245cd">
+<img width="428" alt="Step 8E" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/59162cea-c886-4f90-91e6-aeb50be9a8a0">
+
 9. **Install osTicket:**
    - Download osTicket from the Installation Files Folder.
    - Extract and copy the "upload" folder to `C:\inetpub\wwwroot`.
