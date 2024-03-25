@@ -74,9 +74,12 @@ https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 7. **Install MySQL:**
    - Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi). For installation accept agreements and set my sql as typical. 
    - Set up MySQL with a root password (e.g., Password1).
+   - MySQL server instance configuration wizard installation completion will create a database within the computer so it can storage occupied for osTicket.
 <img width="428" alt="Step 7A" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/b1298660-c6c7-4ee1-b377-bcb312ad32d9">
 <img width="428" alt="Step 7B" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/6eaf04e6-5bf5-458d-8e95-2b26e8913752">
-<img width="428" alt="Step 7C" src="">
+<img width="428" alt="Step 7C" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/dd86383b-381e-4bc9-845f-69638d06e68c">
+<img width="428" alt="Step 7D" src="https://github.com/AlexisVal08/ostickets-prereqs/assets/135868956/940550ef-0a8c-444c-8987-328af44badc0">
+
 
 8. **Register PHP in IIS:**
    - Open IIS as an administrator.
